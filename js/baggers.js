@@ -55,6 +55,32 @@ var data = {
             "cities": [
                 "Changi"
             ]
+        },
+        {
+            "name": "Kailashnath Kutti",
+            "bio": "Big data and analytics specialist and generalist in Enterprize architecture",
+            "picture": "img/baggers/MyPiC.png",
+            "websites": [
+            ],
+            "twitter": "kailashnath.kutti",
+            "contact": "contact@ericlefevre.net",
+            "mail": "kkutti@pivotal.io",
+            "location": "Changi Area, Singapore",
+            "sessions": [
+                {
+                    "title": "Hadoop and security, how to go about and how far can you go",
+                    "summary": "Detailed discussion on Hadoop information security problems and potential solution options."
+                }
+            ],
+            "tags": [
+                "Hadoop",
+                "Big data",
+                "Data science",
+				"Enterprize Architecture"                
+            ],
+            "cities": [
+                "Changi"
+            ]
         }
     ],
     "cities": [
